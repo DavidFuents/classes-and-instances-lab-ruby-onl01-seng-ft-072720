@@ -1,4 +1,4 @@
 class Dog 
-  attr_writer: :fido 
+  attr_accessor: :fido, :snoopy, :lassie
   
 end
